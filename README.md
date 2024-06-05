@@ -5,7 +5,7 @@ MiniQuadX is a lightweight and compact mini drone project based on the ESP32-CAM
 ![MiniQuadX](/media/miniquad.jpeg)
 
 
-**Hardware components: **
+**Hardware components:**
 (thinking out loud , what you need)
   1. Esp32-cam board
   2. lightweight lithium-battery
