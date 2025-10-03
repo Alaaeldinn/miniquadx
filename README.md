@@ -30,9 +30,10 @@ rosrun esp32quad.py
 ```
 
 # TODO
--[ ] Optimization
--[ ] Better readme
--[ ] Unit Tests
--[ ] Control Metrics
--[ ] AUX features 
--[ ] Compact design
+
+- [ ] Optimization
+- [ ] Better readme
+- [ ] Unit Tests
+- [ ] Control Metrics
+- [ ] AUX features 
+- [ ] Compact design
